@@ -1,0 +1,7 @@
+C:\Users\Eva\source\repos\Palindrome Checker (Number) - BSIT2D\Palindrome Checker (Number) - BSIT2D\obj\Debug\Palindrome Checker (Number) - BSIT2D.csproj.AssemblyReference.cache
+C:\Users\Eva\source\repos\Palindrome Checker (Number) - BSIT2D\Palindrome Checker (Number) - BSIT2D\obj\Debug\Palindrome Checker (Number) - BSIT2D.csproj.CoreCompileInputs.cache
+C:\Users\Eva\source\repos\Palindrome Checker (Number) - BSIT2D\Palindrome Checker (Number) - BSIT2D\bin\Debug\Palindrome Checker (Number) - BSIT2D.exe.config
+C:\Users\Eva\source\repos\Palindrome Checker (Number) - BSIT2D\Palindrome Checker (Number) - BSIT2D\bin\Debug\Palindrome Checker (Number) - BSIT2D.exe
+C:\Users\Eva\source\repos\Palindrome Checker (Number) - BSIT2D\Palindrome Checker (Number) - BSIT2D\bin\Debug\Palindrome Checker (Number) - BSIT2D.pdb
+C:\Users\Eva\source\repos\Palindrome Checker (Number) - BSIT2D\Palindrome Checker (Number) - BSIT2D\obj\Debug\Palindrome Checker (Number) - BSIT2D.exe
+C:\Users\Eva\source\repos\Palindrome Checker (Number) - BSIT2D\Palindrome Checker (Number) - BSIT2D\obj\Debug\Palindrome Checker (Number) - BSIT2D.pdb
